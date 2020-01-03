@@ -6,4 +6,4 @@ Stock data example files to use: EU_Stocks_ID_8.csv (stock-ID dataset), EU_Stock
 
 ### User guide: AMSY_UserGuide.pdf
 
-### Complementary User guide with further details at CMSY_UserGuide.pdf
+### Complementary user guide with further details at CMSY_UserGuide.pdf
